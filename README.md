@@ -1,7 +1,5 @@
 # FindMyProduct
 
-# FindMyProduct
-
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Sortweste/FindMyProduct_MachineLearning/blob/master/CONTRIBUTING.md) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
@@ -14,3 +12,7 @@ FindMyProduct is a new mobile app, where it can be possible to detect objects in
 
 The code is distributed under the [GPLv3 License](LICENSE.md) <br>
 All files in `assets/` are distributed under the [CC BY-SA 4.0 License](./assets/LICENSE.md)
+
+## References
+
+Redmon, Joseph and Farhadi, Ali, 2016, YOLO9000: Better, Faster, Stronger, arXiv preprint arXiv:1612.08242, [redmon2016yolo9000](https://pjreddie.com/darknet/yolov2/)
